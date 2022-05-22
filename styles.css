@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+
+/* ul {
+    display: flex;
+} */
+
+header {
+    display: flex;
+    font-family: 'Chewy', cursive;
+    font-size: 25px;
+    gap: 250px;
+    margin: 30px;    
+}
+
+/* header>h1 {
+    margin: 20px;;
+} */
+
+ul {
+    display: flex;
+  justify-content: space-between;
+   
+}
+
+a {
+    margin: 30px;
+    padding: 40px;
+    text-decoration: none;
+    color: goldenrod;
+    font-size: 35px;
+}
+
+li {
+   
+    list-style: none;
+}
